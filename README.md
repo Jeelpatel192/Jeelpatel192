@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jeelpatel192@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15kxLWZkObOnh8Qzy-oJJiUVdtMhaGH9b/view?usp=drivesdk](https://drive.google.com/file/d/15kxLWZkObOnh8Qzy-oJJiUVdtMhaGH9b/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16YTXghUbYDZ4zt22JCmJbBIpvbweNM2j/view?usp=sharing](https://drive.google.com/file/d/16YTXghUbYDZ4zt22JCmJbBIpvbweNM2j/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Lazy but Smart.**
 
