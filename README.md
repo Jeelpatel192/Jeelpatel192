@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning.<br>👨‍💻 All of my projects are available at https://github.com/Jeelpatel192?tab=repositories<br>🌐 My Website 👉 https://jeelpatel.my.canva.site/<br>💬 Ask me about Data Structures and Algorithms.<br>📫 How to reach me jeelpatel192@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1RDa2hZLLhBuxDka44RMHUzpvmHZJfAeT/view?usp=share_link<br>⚡ Fun fact I think I am funny.
+🌱 I’m currently learning Full Stack web Dev & DSA.<br>👨‍💻 Ask me about Data Structures and Algorithms.<br>📫 How to reach me jeelpatel192@gmail.com<br>⚡ Fun fact I think I am Lazy.
 
 
 ## 🌐 Socials:
