@@ -35,7 +35,7 @@ impl AboutMe
 
     fn getFutureGoal() -> &str
     {
-        "Learn more about Data Structures and Algo, ReactJS and NodeJS."
+        "Learn more about Data Stuff."
     }
 }
 
